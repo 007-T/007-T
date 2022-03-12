@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali!
-- 🎒 I am a 3rd year computer science student at SFU.
+- 🎒 I am a 4th year computer science student at SFU.
 - 👀 I’m interested in the use of artifitual intelligance in creating automated visuals based on story lines.
 - 🏢 I’m currently working as an Android developer.
 - 📍 I am located in Vancouver, Canada.
